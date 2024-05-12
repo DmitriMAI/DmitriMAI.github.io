@@ -25,13 +25,13 @@
 Важно оставлять заметки  
 
 ```
-/~ Line Comment ~/
+~ Line Comment ~
 
-/~
+~
 
 Block Comment
 
-~/
+~
 ```
 
 # Вывод в консоль 
