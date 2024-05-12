@@ -22,8 +22,7 @@
 
 В `расширениях/extention` выбрать `...`    
 В выпадающем окне выбрать `install from VSIX`  
-Файл расширения находится по ссылке: 
-https://github.com/MAILabs-Edu-2024/fp-compiler-lab-team-3/blob/main/frieren/frieren-0.0.1.vsix
+Файл расширения находится по [ссылке](https://github.com/MAILabs-Edu-2024/fp-compiler-lab-team-3/blob/main/frieren/frieren-0.0.1.vsix)
 
 # Блоки
 Абсолютно все конструкции в языке Frieren (кроме комментариев) должны быть обёрнуты в
