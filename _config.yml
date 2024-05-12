@@ -60,7 +60,7 @@ liquid:
   strict_variables  : false
 
 # Markdown Processors
-kramdown:
+GFM:
   auto_ids          : true
   entity_output     : as_char
   toc_levels        : [1, 2, 3, 4, 5, 6]
